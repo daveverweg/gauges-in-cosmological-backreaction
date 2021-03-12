@@ -1,2 +1,2 @@
-# gauge-theory-regarding-cosmological-backreaction
-Gauge theory regarding Cosmological Backreaction
+# gauge-theory-and-cosmological-backreaction
+Relativistic gauge theory and the cosmological backreaction
